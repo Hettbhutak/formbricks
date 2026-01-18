@@ -1,4 +1,4 @@
-<div id="top"></div>div>
+<div id="top"></div>
 
 <p align="center">Help us grow and star us on Github! ⭐️</p>
 
